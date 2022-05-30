@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,,,function(e,t,n){e.exports=n(4)},function(e,t,n){"use strict";n.r(t);var o=n(2),r=n(0),c=n.n(r);Object(o.createRoot)(document.getElementById("root")).render(c.a.createElement(c.a.StrictMode,null,c.a.createElement("iframe",{src:"https://fin-be.herokuapp.com/"})))}],[[3,1,2]]]);
+//# sourceMappingURL=main.96f08395.chunk.js.map
